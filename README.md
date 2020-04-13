@@ -1,1 +1,1 @@
-#MS Teams tasksDuplicator
+# MS Teams tasksDuplicator
