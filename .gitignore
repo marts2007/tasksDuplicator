@@ -1,3 +1,4 @@
 *.json
 __*
 .idea
+.DS_Store
