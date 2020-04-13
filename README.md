@@ -12,3 +12,6 @@ config.json example
     "plan_copy_user_id":"assignment user id"
 }
 </pre>
+To run the project execute
+`python main.py`
+and open http://localhost
